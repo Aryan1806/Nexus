@@ -1,4 +1,4 @@
-# Chirpy
+# Nexus
 
 A learning project to build a scalable, modern backend for a microblogging/social app. It focuses on clean HTTP APIs, JWT auth, refresh tokens, SQL-backed persistence, and production-friendly patterns.
 
@@ -22,7 +22,7 @@ A learning project to build a scalable, modern backend for a microblogging/socia
 ```bash
 # Clone
 git clone https://github.com/shivtriv12/chirpy.git
-cd chirpy
+cd Nexus
 
 # Configure environment
 # Create your .env from the example and adjust values
